@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps** at [https://www.darey.io]
 
-- 🌱 Focused on: **Kubernetes, Docker, Helm, Kibana, Terraform, Bash Scripting, CI/CD(_TravisCI_, CircleCI), Ansible**
+- 🌱 DevOps Tools: **Kubernetes, Docker, Helm, Kibana, Terraform, Bash Scripting, CI/CD(_TravisCI_, CircleCI), Ansible**
 
 - 👯 I’m looking to collaborate on **devops projects**
 
